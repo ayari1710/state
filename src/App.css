@@ -1,0 +1,22 @@
+.name{
+  color: blue;
+  text-shadow: chocolate;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+}
+
+
+.bio{
+  color: blue;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: medium;
+}
+.prof{
+  color: blue;
+  text-align: center;
+}
+.photo{
+  text-align: center;
+}
